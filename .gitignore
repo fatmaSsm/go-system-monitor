@@ -1,0 +1,16 @@
+# Go
+*.exe
+*.test
+*.dll
+*.so
+*.dylib
+
+# Node
+web/node_modules/
+web/dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
