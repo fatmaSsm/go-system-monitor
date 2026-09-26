@@ -6,7 +6,7 @@ A real-time system monitoring dashboard built with **Go**, **React**, **TypeScri
   <img src="screenshots/go-system-monitor.png" width="1000">
 </p>
 
-Go System Monitor combines a lightweight Go backend with a responsive desktop dashboard to visualize live hardware and system telemetry on Windows. 
+Go System Monitor combines a lightweight Go backend with a responsive desktop dashboard to visualize live hardware and system telemetry on Windows.
 
 ## ✨ Highlights 
 
