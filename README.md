@@ -8,7 +8,7 @@ A real-time system monitoring dashboard built with **Go**, **React**, **TypeScri
 
 Go System Monitor combines a lightweight Go backend with a responsive desktop dashboard to visualize live hardware and system telemetry on Windows.
 
-## ✨ Highlights
+## ✨ Highlights 
 
 - Real-time CPU usage monitoring
 - Physical and logical CPU core information
