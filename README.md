@@ -44,7 +44,7 @@ Go System Monitor combines a lightweight Go backend with a responsive desktop da
 - **Recharts**
 - **Lucide React**
 
-## 🚀 Running the Project
+## 🚀 Running the Project 
 
 ### Requirements
 
